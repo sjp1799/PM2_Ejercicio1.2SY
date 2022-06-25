@@ -1,0 +1,16 @@
+C:\Users\Yesman Gunera\Downloads\PM2Ejercicio1.2-master\PM2Ejercicio1.2-master\Ejercicio12\bin\Debug\netstandard2.0\Ejercicio12.deps.json
+C:\Users\Yesman Gunera\Downloads\PM2Ejercicio1.2-master\PM2Ejercicio1.2-master\Ejercicio12\bin\Debug\netstandard2.0\Ejercicio12.dll
+C:\Users\Yesman Gunera\Downloads\PM2Ejercicio1.2-master\PM2Ejercicio1.2-master\Ejercicio12\bin\Debug\netstandard2.0\Ejercicio12.pdb
+C:\Users\Yesman Gunera\Downloads\PM2Ejercicio1.2-master\PM2Ejercicio1.2-master\Ejercicio12\obj\Debug\netstandard2.0\Ejercicio12.csproj.AssemblyReference.cache
+C:\Users\Yesman Gunera\Downloads\PM2Ejercicio1.2-master\PM2Ejercicio1.2-master\Ejercicio12\obj\Debug\netstandard2.0\Ejercicio12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yesman Gunera\Downloads\PM2Ejercicio1.2-master\PM2Ejercicio1.2-master\Ejercicio12\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Yesman Gunera\Downloads\PM2Ejercicio1.2-master\PM2Ejercicio1.2-master\Ejercicio12\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Yesman Gunera\Downloads\PM2Ejercicio1.2-master\PM2Ejercicio1.2-master\Ejercicio12\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\Yesman Gunera\Downloads\PM2Ejercicio1.2-master\PM2Ejercicio1.2-master\Ejercicio12\obj\Debug\netstandard2.0\Ejercicio12.AssemblyInfoInputs.cache
+C:\Users\Yesman Gunera\Downloads\PM2Ejercicio1.2-master\PM2Ejercicio1.2-master\Ejercicio12\obj\Debug\netstandard2.0\Ejercicio12.AssemblyInfo.cs
+C:\Users\Yesman Gunera\Downloads\PM2Ejercicio1.2-master\PM2Ejercicio1.2-master\Ejercicio12\obj\Debug\netstandard2.0\Ejercicio12.csproj.CoreCompileInputs.cache
+C:\Users\Yesman Gunera\Downloads\PM2Ejercicio1.2-master\PM2Ejercicio1.2-master\Ejercicio12\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Yesman Gunera\Downloads\PM2Ejercicio1.2-master\PM2Ejercicio1.2-master\Ejercicio12\obj\Debug\netstandard2.0\Ejercicio12.dll
+C:\Users\Yesman Gunera\Downloads\PM2Ejercicio1.2-master\PM2Ejercicio1.2-master\Ejercicio12\obj\Debug\netstandard2.0\refint\Ejercicio12.dll
+C:\Users\Yesman Gunera\Downloads\PM2Ejercicio1.2-master\PM2Ejercicio1.2-master\Ejercicio12\obj\Debug\netstandard2.0\Ejercicio12.pdb
+C:\Users\Yesman Gunera\Downloads\PM2Ejercicio1.2-master\PM2Ejercicio1.2-master\Ejercicio12\obj\Debug\netstandard2.0\ref\Ejercicio12.dll
